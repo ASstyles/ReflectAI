@@ -1,0 +1,6 @@
+{
+  "name": "ReflectAI - Journal & Reflection Assistant",
+  "description": "A secure, user-authenticated journaling and reflection assistant powered by Gemini 3.6 Flash and Cloud Firestore with complete per-user data isolation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
